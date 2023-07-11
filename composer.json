@@ -1,8 +1,8 @@
 {
     "name": "alializade/laravel-pdf",
-    "version": "1.0.1",
+    "version": "1.1",
     "description": "Generate PDFs in Laravel with this mPDF wrapper.",
-    "keywords": ["mpdf", "pdf", "laravel"],
+    "keywords": ["mpdf", "pdf", "laravel", "php8.1"],
     "license": "MIT",
     "scripts": {
         "test": "phpunit --colors=always"
