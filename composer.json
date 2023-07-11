@@ -1,6 +1,6 @@
 {
     "name": "alializade/laravel-pdf",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Generate PDFs in Laravel with this mPDF wrapper.",
     "keywords": ["mpdf", "pdf", "laravel"],
     "license": "MIT",
@@ -9,7 +9,7 @@
     },
     "require": {
         "php": ">=7.0",
-        "mpdf/mpdf": "^8.0.13"
+        "mpdf/mpdf": "^8.1.6"
     },
     "autoload": {
         "psr-4": {
